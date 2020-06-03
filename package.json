@@ -1,0 +1,23 @@
+{
+  "name": "restful-api-nodejs-backend",
+  "version": "1.0.0",
+  "description": "Restful API written in Node.js with MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vl4d1m1r:N!0tep444d3226-@github.com/vl4d1m1r/restful-api-nodejs-backend.git"
+  },
+  "author": "Vladimir Jankovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vl4d1m1r/restful-api-nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/vl4d1m1r/restful-api-nodejs-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0"
+  }
+}
