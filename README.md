@@ -1,1 +1,1 @@
-# You can find the in-depth info about this project here: [https://doctypeadventures.netlify.app/SingleArticle/make-your-own-personal-restful-api/1](https://doctypeadventures.netlify.app/SingleArticle/make-your-own-personal-restful-api/1)
+# You can find the in-depth info about this project here: [https://doctypeadventures.netlify.app/post/make-your-own-personal-restful-api](https://doctypeadventures.netlify.app/post/make-your-own-personal-restful-api)
